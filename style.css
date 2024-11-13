@@ -1,0 +1,12 @@
+.cubx{
+    width: 15px;
+    height: 150px;
+    background-color: brown;
+    position:absolute
+}
+.cuby{
+    width: 150px;
+    height: 15px;
+    background-color: rgb(42, 95, 165);
+    position:absolute
+}
